@@ -13,9 +13,9 @@ Following the KISS statements, it it simple as possible, the basic schema is bel
 ```json
 [
   {
-    "description": "Acre",
+    "name": "Acre",
     "cities": [
-      {"description": "Rio Branco"}
+      {"name": "Rio Branco"}
     ]
   }
 ]
