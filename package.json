@@ -2,7 +2,7 @@
   "name": "cities-as-json",
   "version": "0.3.1",
   "description": "Constantly updated list of cities and states from Brazil.",
-  "main": "index.js",
+  "main": "states-and-cities.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
