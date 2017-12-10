@@ -1,6 +1,6 @@
 {
   "name": "cities-as-json",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "Constantly updated list of cities and states from Brazil.",
   "main": "states-and-cities.json",
   "scripts": {
